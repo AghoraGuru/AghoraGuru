@@ -1,6 +1,6 @@
 ### Hi 👋
 
-*This repo belongs to an undergrade doing B.Tech in CSE specializing in AI , a self taught programmer(lot's of Gooooogling) who currently working his skills and learning new things. He does his blog on [HashNode](https://hashnode.com/@AghoraGuru), Google Developer Profile on [Google Dev Site](https://www.developers.google.com/profile/u/aghoraguru) and his portfolio site on ( still building ...)*
+*This repo belongs to an undergrade doing B.Tech in CSE specializing in AI , a self taught programmer(lot's of Gooooogling) who currently working his skills and learning new things. He does his blog on [HashNode](https://hashnode.com/@AghoraGuru) and his portfolio site on ( still building ...)*
 
 ### Wanting to do :
 - [x] Lot's of AI stuff
