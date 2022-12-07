@@ -1,5 +1,7 @@
 ### Hi 👋
 
+![Hand coding (2)](https://user-images.githubusercontent.com/88477799/206293719-346ab709-6300-4a79-ada2-196fd874dc69.gif)
+
 *This repo belongs to an undergrade doing B.Tech in CSE specializing in AI , a self taught programmer(lot's of Gooooogling) who currently working his skills and learning new things. He does his blog on [HashNode](https://hashnode.com/@AghoraGuru) and his portfolio site on ( still building ...)*
 
 ### Wanting to do :
