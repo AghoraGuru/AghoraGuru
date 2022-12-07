@@ -30,3 +30,6 @@
 - [x] Manjaro <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="20" height="20" />
 - [x] Jupyter Notebook <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="20" height="20" />
 - [x] Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" height="20" />
+
+![Snake animation](https://github.com/AghoraGuru/AghoraGuru/blob/output/github-contribution-grid-snake.svg)
+
