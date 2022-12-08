@@ -4,6 +4,8 @@
 
 *This repo belongs to an undergrade doing B.Tech in CSE specializing in AI , a self taught programmer(lot's of Gooooogling) who currently working his skills and learning new things. He does his blog on [HashNode](https://hashnode.com/@AghoraGuru) and his portfolio site on ( still building ...)*
 
+<img src="https://github.com/aghoraguru/aghoraguru/blob/master/devcard.svg" width="400" alt=" Dev Card"/></a>
+
 ### Wanting to do :
 - [x] Lot's of AI stuff
 - [x] Quite a few web dev projects
