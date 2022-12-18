@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Hand coding (2)](https://user-images.githubusercontent.com/88477799/206293719-346ab709-6300-4a79-ada2-196fd874dc69.gif)
 
