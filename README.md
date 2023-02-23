@@ -15,7 +15,7 @@
 - [x] And some Class works 😅
 - [x] Go full arch based (by bugging mera dosth [SuperSecureHuman]( github.com/SuperSecureHuman) )
 
-### I am currently working on : progress bar ( 25% )
+### I am currently working on : progress bar ( 35% )
 - [x] Tensorflow <img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" height="20" />
 - [x] Android Development <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" width="20" height="20" />
 - [x] Scikit Learn <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="20" />
