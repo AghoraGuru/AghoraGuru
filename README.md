@@ -11,7 +11,7 @@
 - [x] Lot's of AI stuff
 - [x] Quite a few web dev projects
 - [x] Blogging
-- [x] A portfolio site
+- [x] A [portfolio]( aghoraguru.github.io ) site
 - [x] And some Class works 😅
 - [x] Go full arch based (by bugging mera dosth [SuperSecureHuman]( github.com/SuperSecureHuman) )
 
