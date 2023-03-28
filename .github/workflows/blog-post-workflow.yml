@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in github.io to posts
-        uses: aghoraguru/AghoraGuru
+        uses: AghoraGuru/AghoraGuru
         with:
           feed_list: "https://aghoraguru.github.io/"
