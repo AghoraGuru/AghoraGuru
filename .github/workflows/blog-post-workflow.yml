@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in github.io posts
-        uses: aghoraguru/aghoraguru/.github/workflows/blog-post-workflow
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://aghoraguru.github.io/feed.xml"
