@@ -2,6 +2,7 @@
 <p align="center">
 <img src = "https://github.com/AghoraGuru/AghoraGuru/blob/main/github-header-image.png" >
 </p>
+
 *This repo belongs to an undergrad doing B.Tech in CSE specializing in AI , a self taught programmer(lot's of Gooooogling) who currently working his skills and learning new things. He does his blog on [HashNode](https://hashnode.com/@AghoraGuru) and his portfolio site [here](https://aghoraguru.github.io).*
 
 <p align="center">
