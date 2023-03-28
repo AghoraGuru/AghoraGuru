@@ -11,4 +11,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HandCalcs](/2023/03/07/HandCalcs.html)
+- [MandelBrot Set With Excel](/2023/02/02/MandleBrot_Set.html)
+- [My System](/2023/01/16/My-System.html)
 <!-- BLOG-POST-LIST:END -->
