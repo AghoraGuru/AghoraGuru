@@ -1,19 +1,21 @@
-name: Latest blog post workflow
+name: Blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
+  schedule:
+    # Runs every day at 3pm UTC (11pm SG)
+    - cron: '0 0 * * *'
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  pull_blog_rss:
+    name: Update with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull in github.io posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
         with:
-          feed_list: "https://aghoraguru.github.io/feed.xml"
+          feed_url: https://aghoraguru.github.io/feed.xml
+          count: 5
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
